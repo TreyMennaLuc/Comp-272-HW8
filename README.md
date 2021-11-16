@@ -1,4 +1,5 @@
 # Comp-272-HW8
+Using artist_edges.csv for data
 # On the fly algorithm
 Number of CC's: 22804
 Largest CC: 1458
